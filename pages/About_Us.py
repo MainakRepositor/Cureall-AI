@@ -42,8 +42,6 @@ components.html(
     """,
     height=69,
 )
-st.write(f"## Founders")
-
 
 # Add Cureall description
 st.markdown("## Cureall")
